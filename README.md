@@ -17,7 +17,8 @@
 Work | My RepoNotes/Hw/Project | Description
 ---|---|---
 肝论文（第一个100篇计划）☁️ | https://github.com/tangerinethm/Paper_Repository|
-斯坦福密码学课程 ☁️ | |视频：https://www.bilibili.com/video/BV1Ht411w7Re
+斯坦福密码学课程 ☁️ | |视频：https://www.bilibili.com/video/BV1Ht411w7Re |
+近世代数 ☁️ | | 视频: https://www.bilibili.com/video/BV1Cz4y1Q7Mu/ |
 
 
 
